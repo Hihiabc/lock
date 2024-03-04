@@ -1,0 +1,2 @@
+# lock
+say hi !
